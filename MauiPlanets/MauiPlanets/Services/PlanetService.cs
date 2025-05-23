@@ -20,7 +20,7 @@ namespace MauiPlanets.Services
 				Images = new()
 				{
 					"https://cdn.theatlantic.com/thumbor/D15rQggf6357X1-u6VpTD2N1yQE=/0x27:1041x613/976x549/media/img/mt/2017/04/MercuryImage/original.jpg",
-					"https://starlust.org/wp-content/uploads/2023/07/planet-mercury.webp",
+                    "https://www.nhm.ac.uk/content/dam/nhm-www/discover/mercury-facts/mercury-factfile-v2-full-width.jpg.thumb.1920.1920.png",
 					"https://griffithobservatory.org/wp-content/uploads/2021/03/Mercury_fin_flood_LD_V3-1600x844.jpg"
 				}
 			},
@@ -37,7 +37,7 @@ namespace MauiPlanets.Services
 				Images = new()
 				{
 					"https://cdn.mos.cms.futurecdn.net/RifjtkFLBEFgzkZqWEh69P-1200-80.jpg",
-					"https://starwalk.space/gallery/images/amazing-planet-venus/1920x1080.jpg",
+                    "https://cdn.shortpixel.ai/spai/q_lossy+w_834+h_794+to_auto+ret_img/cosmosmagazine.com/wp-content/uploads/2020/04/venus_resized.jpg",
 					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIK8HsPuD9mo2NePF9ZOpGjGFeHeB5g41wUYG51uCFvewSBAv4Fl1ZBGgYjBhNMjsJaA&usqp=CAU"
 
 				}
@@ -189,7 +189,7 @@ namespace MauiPlanets.Services
 			},
 			new()
 			{
-				Name = "Haumea",
+				Name = "Haumea_korras",
 				Subtitle = "Haumea is named after the Hawaiian goddess of fertility.",
 				HeroImage = "haumea.png",
 				Description =  "Discovered in 2004, Haumea is one of the strangest dwarf planets in our solar system. " +
@@ -202,9 +202,9 @@ namespace MauiPlanets.Services
 				Images = new()
 				{
 					"https://www.centraldatacore.com/wp-content/uploads/PD3-Haumea-P-Key-1200x900.jpg",
-					"https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F9fswe344cff51.jpg",
-					"https://www.universetoday.com/wp-content/uploads/2022/10/7871.jpg"
-				}
+                    "https://cdn.mos.cms.futurecdn.net/JMePZFEJNcVnNawYzrCv96-650-80.jpg.webp",
+                    "https://www.scienceabc.com/wp-content/uploads/2019/09/This-image-is-a-concept-of-the-Haumea-ellipsoidal-dwarf-planet-with-rings-in-the-Kuiper-belt-Diego-Baruccos.jpg"
+                }
 			},
 			new()
 			{
@@ -222,7 +222,7 @@ namespace MauiPlanets.Services
 				Images = new()
 				{
 					"https://cdn.eso.org/images/screen/eso1246a.jpg",
-					"https://www.universetoday.com/wp-content/uploads/2008/07/Makemake.jpg",
+                    "https://cdn.shopify.com/s/files/1/0742/7719/1954/files/Makemake_1024x1024.jpg?v=1693092886",
 					"https://cdn.mos.cms.futurecdn.net/8QBGiy9BhmttKdGeAAZpn8.jpg"
 				}
 			},
