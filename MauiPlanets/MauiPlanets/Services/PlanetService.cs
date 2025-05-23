@@ -189,7 +189,7 @@ namespace MauiPlanets.Services
 			},
 			new()
 			{
-				Name = "Haumea_korras",
+				Name = "Haumea",
 				Subtitle = "Haumea is named after the Hawaiian goddess of fertility.",
 				HeroImage = "haumea.png",
 				Description =  "Discovered in 2004, Haumea is one of the strangest dwarf planets in our solar system. " +
